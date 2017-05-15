@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  Start_Me_Up_New
 //
-//  Created by xmhouse on 9/11/13.
-//  Copyright (c) 2013 xmhouse. All rights reserved.
+//  Created by Yzz on 9/11/13.
+//  Copyright (c) 2013 Yzz. All rights reserved.
 //
 
 #import "AppDelegate.h"
